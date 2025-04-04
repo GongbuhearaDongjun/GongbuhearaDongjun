@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi my name is Leedongjun 👋
 
-<!--
-**GongbuhearaDongjun/GongbuhearaDongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a sophomore at Yeungnam University who wants to get a job related to security and IOT.
 
-Here are some ideas to get you started:
+Here are some ideas to get me started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studing on yeongnam UNIV.
+- 🌱 I’m currently learning computer science
+
+🛠️ Stacks
+  pyhon / c / c++
+💪🏼 Tools
+  Visual Studio Code / GitHub / PyCharm / Jupyter Notebook
+
+🐱 About Me
+my Email:
+ google : dongjun9021@gmail.com
+ naver : dongjun9021@naver.com
+SNS:
+ instagram : im_onthe_move
+ kakao : lc402705
+
+
+
+My brithday is 2003 06 25. 
+
+  
+
