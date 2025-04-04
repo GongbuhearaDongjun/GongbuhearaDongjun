@@ -4,8 +4,8 @@ I am a sophomore at Yeungnam University who wants to get a job related to securi
 
 Here are some ideas to get me started:
 
-- 🔭 I’m currently studing on yeongnam UNIV.
-- 🌱 I’m currently learning computer science
+- 🔭 I’m currently studing on YEONHNAM UNIV.
+- 🌱 I’m currently learning Computer science
 
 🛠️ Stacks
   pyhon / c / c++
